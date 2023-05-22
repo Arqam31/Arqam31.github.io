@@ -1,0 +1,3 @@
+step1:- !pip install git+https://github.com/andreinechaev/nvcc4jupyter.git
+
+step2:- %load_ext nvcc_plugin
